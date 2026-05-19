@@ -37,7 +37,7 @@ Clica em `SKILL.md` aqui no repo → botão **"Download raw file"** (canto super
 
 Ou, no terminal:
 ```bash
-curl -O https://raw.githubusercontent.com/SEU-USUARIO/psicologia-conteudo-viral/main/SKILL.md
+curl -O https://raw.githubusercontent.com/bdoisss-prog/psicologia-conteudo-viral/main/SKILL.md
 ```
 
 ### Passo 2 — Abre o Claude Desktop
@@ -125,9 +125,9 @@ MIT License — usa, modifica, compartilha à vontade. Só não me culpe se voc�
 
 ## 📬 Contato
 
-- **YouTube:** [Bruno Mazzuchelli](https://youtube.com/@SEU-CANAL)
-- **Instagram:** [@SEU-USUARIO](https://instagram.com/SEU-USUARIO)
-- **Email:** seuemail@gmail.com
+- **YouTube:** [Bruno Mazzuchelli](https://youtube.com/@bruno.mazzuchelli)
+- **Instagram:** [@brunomazzu](https://instagram.com/brunomazzu)
+- **Email:** contato@brunomazzu.com.br
 
 ---
 
